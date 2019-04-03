@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MoChuidFocal", "MoChuidFocal\MoChuidFocal.vcxproj", "{37F7CE65-0326-4392-8368-2492F1CCD93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F7CE65-0326-4392-8368-2492F1CCD93D}.Debug|x64.ActiveCfg = Debug|x64
+		{37F7CE65-0326-4392-8368-2492F1CCD93D}.Debug|x64.Build.0 = Debug|x64
+		{37F7CE65-0326-4392-8368-2492F1CCD93D}.Debug|x86.ActiveCfg = Debug|Win32
+		{37F7CE65-0326-4392-8368-2492F1CCD93D}.Debug|x86.Build.0 = Debug|Win32
+		{37F7CE65-0326-4392-8368-2492F1CCD93D}.Release|x64.ActiveCfg = Release|x64
+		{37F7CE65-0326-4392-8368-2492F1CCD93D}.Release|x64.Build.0 = Release|x64
+		{37F7CE65-0326-4392-8368-2492F1CCD93D}.Release|x86.ActiveCfg = Release|Win32
+		{37F7CE65-0326-4392-8368-2492F1CCD93D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B13E39A-0254-4FF6-9AD3-0C2550B6685A}
+	EndGlobalSection
+EndGlobal
